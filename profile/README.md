@@ -8,5 +8,5 @@ It helps users break down big goals into smaller tasks, track progress, and stay
 - 🏙️ Gamified experience: build your own “goal city” as you progress
 
 ## Tech Stack
-- Frontend: React
+- Frontend: Next.js
 - Backend: Node.js
