@@ -1,5 +1,5 @@
 
-🏙️ TODOJI is a goal-management app based on the **Mandarat method**.
+🏙️ TODO-JI is a goal-management app based on the **Mandarat method**.
 It helps users break down big goals into smaller tasks, track progress, and stay motivated with a game-like experience.
 
 ## Features
