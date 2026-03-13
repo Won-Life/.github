@@ -157,10 +157,15 @@ AiDeep 팀은 **현장에서 문제를 직접 겪고, 사용자 목소리에 기
 
 ## 📬 Contact
 
-- Project: AiDeep
-- Role: Backend & AI – 서석희 (Seokhee Seo)
-- Email: seoki180@inha.edu / seoki180@naver.com
-- GitHub: [@seoki180](https://github.com/seoki180)
+**Project:** AiDeep  
+
+- **Team Lead & Frontend – Jimin Choi (지민 최)**  
+  Email: tangbole@naver.com  
+  GitHub: https://github.com/Jimin0430  
+
+- **Backend & AI – Seokhee Seo (서석희)**  
+  Email: seoki180@inha.edu / seoki180@naver.com  
+  GitHub: https://github.com/seoki180
 
 > Don’t remember everything. **Focus on today.**
 > 
