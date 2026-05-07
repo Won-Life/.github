@@ -1,7 +1,12 @@
 # AiDeep
 
+<img width="13501" height="5625" alt="main" src="https://github.com/user-attachments/assets/092e90b4-01d0-410c-8bfb-f8114d19318c" />
+
 > 흩어진 기록을 구조화·연결·검색해 개인과 팀의 시간을 줄여주는 AI 기반 지식 허브
-> 
+
+---
+[![Wiki](https://img.shields.io/badge/📖_Wiki-온보딩-blue?style=for-the-badge)](https://github.com/Won-Life/.github/wiki)
+
 
 ## 📌 What is AiDeep?
 
