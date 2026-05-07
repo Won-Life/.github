@@ -7,6 +7,18 @@
 ---
 [![Wiki](https://img.shields.io/badge/📖_Wiki-온보딩-blue?style=for-the-badge)](https://github.com/Won-Life/.github/wiki)
 
+<p align="center">
+  <a href="https://dev.aideep.ai.kr">
+    <img src="https://img.shields.io/badge/AiDeep-dev-바로가기-6366F2?style=for-the-badge" height="40"/>
+  </a>
+  <a href="https://aideep.ai.kr">
+    <img src="https://img.shields.io/badge/AiDeep-바로가기-1F2937?style=for-the-badge" height="40"/>
+  </a>
+  <a href="https://seoki.cloud/aideep/docs">
+    <img src="https://img.shields.io/badge/Swagger-181717?style=for-the-badge&logoColor=white" height="40"/>
+  </a>
+</p>
+
 
 ## 📌 What is AiDeep?
 
